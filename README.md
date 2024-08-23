@@ -27,10 +27,10 @@ Merhaba! Ben Berk, yazılım tasarımı üzerine yoğunlaşan bir geliştiriciyi
 
 ## 📫 Sosyal Medya
 <p align="center">
-  <a href="https://www.instagram.com/berk_321/">
+  <a href="https://www.instagram.com/berk_321/"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
-  <a href="https://discord.com/invite/berk">
+  <a href="https://discord.com/invite/berk"  target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
 </p>
