@@ -1,9 +1,44 @@
-### Hi there 👋, BERKO CHAT
-####  SOFTWARE CREATOR AND YOUTUBER
+# Berk
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+![GitHub followers](https://img.shields.io/github/followers/berk?style=social)
+![GitHub stars](https://img.shields.io/github/stars/berk?style=social)
 
-- 🔭 I’m currently working on this page. 
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300.png?text=Welcome+to+Berk's+GitHub+Profile" alt="Banner" width="100%" />
+</p>
+
+## 🌟 Hakkımda
+Merhaba! Ben Berk, yazılım tasarımı üzerine yoğunlaşan bir geliştiriciyim. Bu sayfada projelerimi ve çalışmalarımı bulabilirsiniz.
+
+- 🔭 **Şu anda üzerinde çalışıyorum**: Yazılım tasarımı ve geliştirme projeleri.
+- 🌱 **Öğreniyorum**: Python, JavaScript, React ve diğer yazılım araçları.
+- 💬 **Bana ulaş**: [Gmailim](baydarberk65@gmail.com)
+- ⚡ **Eğlenceli Gerçek**: Boş zamanlarımda Discord botları geliştiriyorum.
+
+## 📈 GitHub İstatistiklerim
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berk&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Berkochat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/RdmR3dzXKs)  
+
+## 🎮 Discord Sunucularım
+- **[Sunucu 1](link)**: Sunucu 1 açıklaması burada.
+- **[Sunucu 2](link)**: Sunucu 2 açıklaması burada.
+- **[Sunucu 3](link)**: Sunucu 3 açıklaması burada.
+
+## 📫 Sosyal Medya
+<p align="center">
+  <a href="https://instagram.com/berk">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/invite/berk">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord" />
+  </a>
+</p>
+
+## 🎨 İlgi Alanlarım
+- Yazılım Tasarımı
+- Discord Botları
+- Açık Kaynak Projeler
