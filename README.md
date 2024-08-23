@@ -21,9 +21,9 @@ Merhaba! Ben Berk, yazılım tasarımı üzerine yoğunlaşan bir geliştiriciyi
 
 
 ## 🎮 Discord Sunucularım
-- **[FREE NİTRO](https://discord.gg/tP6tKmaCyN)**: Sunucu 1 açıklaması burada.
-- **[TLADE](https://discord.com/invite/aNeCqDaf)**: Sunucu 2 açıklaması burada.
-- **[TASARIM](https://discord.com/invite/SPmtXrfn)**: Sunucu 3 açıklaması burada.
+- **[FREE NİTRO](https://discord.gg/tP6tKmaCyN)**: Sunucumuzda sizlere ücretsiz nitro veriyoruz.
+- **[TLADE](https://discord.com/invite/aNeCqDaf)**: Tlade Arkadaşımızın sunucusu.
+- **[TASARIM](https://discord.com/invite/SPmtXrfn)**: Tasaeım sunucumuz.
 
 ## 📫 Sosyal Medya
 <p align="center">
