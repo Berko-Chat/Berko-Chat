@@ -20,7 +20,7 @@ Merhaba! Ben Berk, yazılım tasarımı üzerine yoğunlaşan bir geliştiriciyi
 
 ## 📫 Sosyal Medya
 <p align="center">
-  <a href="https://www.instagram.com/berk_321/" target="_blank">
+  <a href="https://www.instagram.com/branox.official" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 
