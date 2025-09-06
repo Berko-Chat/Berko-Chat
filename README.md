@@ -16,11 +16,7 @@ Merhaba! Ben Berk, yazılım tasarımı üzerine yoğunlaşan bir geliştiriciyi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berk&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" alt="Top Languages" />
 </p>
-
-## 🎮 Discord Sunucularım
-- <img src="https://img.shields.io/badge/FREE%20NİTRO-7289DA?style=for-the-badge&logo=discord" alt="FREE NİTRO" /> **[FREE NİTRO](https://discord.gg/tP6tKmaCyN)**: Sunucumuzda sizlere ücretsiz nitro veriyoruz.
-- <img src="https://img.shields.io/badge/TLADE-7289DA?style=for-the-badge&logo=discord" alt="TLADE" /> **[TLADE](https://discord.com/invite/aNeCqDaf)**: Tlade Arkadaşımızın sunucusu.
-- <img src="https://img.shields.io/badge/TASARIM-7289DA?style=for-the-badge&logo=discord" alt="TASARIM" /> **[TASARIM](https://discord.com/invite/SPmtXrfn)**: Tasarım sunucumuz.
+,,
 
 ## 📫 Sosyal Medya
 <p align="center">
